@@ -1,7 +1,7 @@
 ## FiveM Plane Pack (Public)
 
-[APIversionImg]: https://img.shields.io/badge/CustomPack%20Staus-InTheWorks-orange
-[licenseImg]: https://img.shields.io/badge/Version-0.1-blue
+[APIversionImg]: https://img.shields.io/badge/CustomPack%20staus-Stable-green
+[licenseImg]: https://img.shields.io/badge/Version-1.4-blue
 
 [logo]: https://i.imgur.com/IK6sZCY.jpg
 <!-- The stuff above isn't visible in the readme -->
@@ -303,4 +303,6 @@ Total Planes in pack = 141
 
 ## Quick Links
 
-Tag: BenSon#0001
+_Feel free to contact me on discord if you need any help_
+
+Discord Tag: BenSon#0001
