@@ -303,6 +303,4 @@ Total Planes in pack = 141
 
 ## Quick Links
 
-Discord: https://discord.gg/bh62as6
-
 Tag: BenSon#0001
