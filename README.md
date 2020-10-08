@@ -14,6 +14,11 @@
 
 Created FiveM supported plane pack. One resource with up to 140+ planes.
 
+<a href="https://drive.google.com/file/d/1gUZIFheWxt0h2xp-t9RnICM3kf_DDSjX/view?usp=sharing">
+ <img alt="download" src="https://i.imgur.com/CeUYahH.png"
+ width="226" height="59">
+</a>
+
 ### Plane list and spawn codes
 * 14-bis Oiseau De Proie by CANAL EMBRAER GTA (odp14)
 * A-10A Thunderbolt II by SkylineGTRFreak (aa10)
